@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "ilRaR4Qre",
+      "uuid": "6ea20cd1-b97c-4d07-b035-ce7b0da95836",
+      "firstName": "thomas",
+      "lastName": "thomas",
+      "username": "thomas",
+      "password": "$2a$10$zHFma8PbTNvIJa.u1d0zdutmZITr7BWDcONH8xveFWhEErX40b2Y.",
+      "balance": 0,
+      "createdAt": "2021-11-20T23:53:25.657Z",
+      "modifiedAt": "2021-11-20T23:53:25.657Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "Qt2jUbcCS",
+      "uuid": "a479fb7c-b9cb-494c-8db2-1e5c7ed79f88",
+      "userId": "ilRaR4Qre",
+      "bankName": "thomas",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2021-11-20T23:54:32.380Z",
+      "modifiedAt": "2021-11-20T23:54:32.380Z"
     }
   ],
   "transactions": [
